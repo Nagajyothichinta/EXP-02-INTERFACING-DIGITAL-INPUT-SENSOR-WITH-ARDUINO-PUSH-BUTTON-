@@ -65,7 +65,7 @@ FIGURE -03
 
 
 
-
+```
 PROGRAM 
 
 int ledpin=3;
@@ -90,7 +90,7 @@ digitalWrite(ledpin,HIGH);
 
 }
 
-
+```
 Output of the simulation :
 ![output](./i1.png)
 
